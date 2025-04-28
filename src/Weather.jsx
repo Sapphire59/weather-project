@@ -58,7 +58,7 @@ function Weather(props) {
               <input
                 type="submit"
                 value="Enter a city"
-                className="btn btn-info w-100"
+                className="btn btn-danger w-100"
               />
             </div>
           </div>

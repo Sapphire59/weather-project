@@ -1,10 +1,10 @@
 .Weather {
-  border: 2px solid #f9ffea;
+  border: 2px solid #fcfefe;
   font-family: Arial, Helvetica, sans-serif;
   color: #8c999a;
-  padding: 16px;
+  padding: 22px;
   margin-top: 20px;
-  background-color: #f1f1f1;
+  background-color: #fcfefe;
 
   border-radius: 4px;
 }
@@ -61,5 +61,5 @@
 }
 
 .WeatherInfo li {
-  margin: 5px;
+  margin: 10px;
 }
